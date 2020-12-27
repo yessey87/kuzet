@@ -1,6 +1,6 @@
 <?php
 
-//echo 'It Works';
+echo 'It Works';
 
 function executeREST($method, $params) {
     $queryUrl = 'https://nskuzet.bitrix24.kz/rest/1/jlrvpl6c2i9tyewk/'.$method.'.json';
